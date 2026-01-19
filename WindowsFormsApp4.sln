@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scan-LinePolygonFillAlgorithm", "WindowsFormsApp4\Scan-LinePolygonFillAlgorithm.csproj", "{F751FA40-8BAE-4EF6-879C-2D5924A2846F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F751FA40-8BAE-4EF6-879C-2D5924A2846F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F751FA40-8BAE-4EF6-879C-2D5924A2846F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F751FA40-8BAE-4EF6-879C-2D5924A2846F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F751FA40-8BAE-4EF6-879C-2D5924A2846F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {336B94D0-DED2-4803-8801-476EA0544016}
+	EndGlobalSection
+EndGlobal
